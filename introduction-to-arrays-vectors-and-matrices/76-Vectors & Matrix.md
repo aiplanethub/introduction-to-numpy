@@ -21,9 +21,9 @@ This is a one-dimensional array, or a vector, because there is only one row of t
 
 In contrast, if you had a box with multiple rows of toy cars, like this:
 
-car 1, car 2, car 3
-car 4, car 5, car 6
-car 7, car 8, car 9
+car 1, car 2, car 3 <br>
+car 4, car 5, car 6 <br>
+car 7, car 8, car 9 <br>
 
 Then this would be a two-dimensional array, because it has two dimensions, or directions (up and down, as well as left and right).
 
@@ -50,9 +50,9 @@ With that let's understand Matrices with an intuitively example. Imagine you hav
 
 For example, you could have a matrix with three rows and three columns, like this:
 
-car 1, car 2, car 3
-car 4, car 5, car 6
-car 7, car 8, car 9
+car 1, car 2, car 3 <br>
+car 4, car 5, car 6 <br>
+car 7, car 8, car 9 <br>
 
 In this matrix, the first row has three toy cars (car 1, car 2, and car 3), the second row has three toy cars (car 4, car 5, and car 6), and the third row has three toy cars (car 7, car 8, and car 9).
 
